@@ -25,4 +25,4 @@ CureConnect is a mental health chatbot designed to provide support to users deal
 
 
 ## Feedback and Support:
-We’re open to suggestions, feedback, and bug reports. For inquiries, please contact [snehasishhaldar415@gmail.com](mailto:snehasishhaldar415@gmail.com).
+We’re open to suggestions, feedback, and bug reports. For inquiries, please contact [piyushanurag12@gmail.com](mailto:piyushanurag12@gmail.com).
